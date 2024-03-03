@@ -1,3 +1,10 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+
 h1{
   font-family: "Ephesis", cursive;
   font-weight: bold;
@@ -28,6 +35,13 @@ p {
 
 .navbar-toggler:focus{
   box-shadow: none;
+}
+
+.nav-cont{
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
 }
 .nav-item{
   font-family: "Bitter", serif;

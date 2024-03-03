@@ -9,4 +9,3 @@
 * colori:
     - #CC2936
     - #FAFAFA
-    -
