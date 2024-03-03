@@ -7,6 +7,6 @@
 * illustazioni e foto su unplash, unDraw
 
 * colori:
-    - 
-    -
+    - #CC2936
+    - #FAFAFA
     -
